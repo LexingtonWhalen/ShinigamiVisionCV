@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 import numpy as np
 import cv2 as cv
 import os
@@ -6,9 +8,6 @@ import random
 from matrix_operations import MatrixOperators
 from insert_img import ImgInsertion
 from dafoe_quotes import QOUTES
-
-#eventually try audio
-#from ffpyplayer.player import MediaPlayer
 
 class VideoReader():
     def __init__(self,w,h):
