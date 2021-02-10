@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 import numpy as np
 import cv2
 import os
